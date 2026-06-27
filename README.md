@@ -71,20 +71,6 @@ Using unofficial tools or automating Discord accounts **may violate Discord's Te
 
 ---
 
-## 🤝 Contributing
-
-Pull requests, suggestions, and improvements are welcome.
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
-
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider leaving a ⭐ on the repository.
