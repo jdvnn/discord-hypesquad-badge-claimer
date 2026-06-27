@@ -66,9 +66,6 @@ discord-hypesquad-badge-claimer/
 This repository is intended **only** for:
 
 * Educational purposes
-* API research
-* Learning Python
-* Reverse engineering practice
 
 Using unofficial tools or automating Discord accounts **may violate Discord's Terms of Service** and could result in account limitations or suspension. Use at **your own risk**. Discord has changed how HypeSquad enrollment works over time, so functionality may change or stop working.
 
