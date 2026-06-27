@@ -73,7 +73,5 @@ Using unofficial tools or automating Discord accounts **may violate Discord's Te
 
 ## ⭐ Support
 
-If you found this project useful, consider leaving a ⭐ on the repository.
+If you found this project useful, consider leaving a star on the repository.
 
-```
-```
