@@ -1,4 +1,4 @@
-````md
+
 # Discord HypeSquad Badge Claimer
 
 A lightweight and experimental tool for claiming a Discord HypeSquad House badge through Discord's available API endpoint.
